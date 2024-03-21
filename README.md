@@ -4,3 +4,7 @@
 # Sistema de Registro
 
 - Estado del proyecto: En construcción.
+
+Para iniciar el sistema, ejecuta:
+
+```npm install react```
