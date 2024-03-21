@@ -14,3 +14,5 @@
 Para iniciar el sistema, ejecuta:
 
 ```npm install react```
+
+Esta linea fue agregada desde el sitio web de GitHub.
